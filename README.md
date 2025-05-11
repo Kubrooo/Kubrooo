@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web programing<br>💬 Ask me about C# EFcore <br>⚡ Fun fact I'm smart but i do dumb things anyway
+A Full-stuck developer who loves making ideas come to life.  Let’s create something cool together.
 
 
 ## 🌐 Socials:
