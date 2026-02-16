@@ -18,8 +18,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kubrooo&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubrooo&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Kubrooo&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Kubrooo&layout=compact&theme=gotham&hide_border=true&count_private=true&v=1" height="150" alt="languages graph" />
 </p>
 
 ---
