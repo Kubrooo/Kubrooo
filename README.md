@@ -1,6 +1,6 @@
 # Hi there, I'm Kubrooo! 👋
 
-> Information Systems Student & Aspiring Full-Stack Developer.
+> Information Systems Student
 > Currently building ideas with Node.js & React.
 
 ---
